@@ -197,7 +197,7 @@ In this step, we'll render all of our topics from the `Topics` folder, create th
   * Have the component render a `<p>` element saying the name of the component.
 * Open `src/components/TopicBrowser/TopicBrowser.js`.
 * Import all the topic files from `src/components/Topics` into `src/components/TopicBrowser/TopicBrowser.js`.
-* Render a parent `div` element containing all of the Topic components.
+* Render a parent `div` element cont aining all of the Topic components.
 
 <details>
 
